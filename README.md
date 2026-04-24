@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-🎯 Focado em me tornar um Analista de Dados  
+🎯 Graduando em Análise e Desenvolvimento de Sistemas focado em me tornar um Analista de Dados  
 📚 Estudando SQL, Python e Power BI  
 📈 Interesse em análise exploratória, dashboards e insights  
 💼 Buscando primeira oportunidade na área  
