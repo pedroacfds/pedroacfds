@@ -45,18 +45,3 @@ Olá, me chamo Pedro Assis! Graduando em Análise e Desenvolvimento de Sistemas,
 </p>
 
 ---
-
-## 🌐 Contato
-
-<div> 
-  <a href="xpedroassisl@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-assis-5325312a9/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
-
----
-
-⭐ Sempre evoluindo na área de dados!
