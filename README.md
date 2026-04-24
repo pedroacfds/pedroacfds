@@ -32,19 +32,17 @@
 
 <p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=pedroacfds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=pedroacfds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
   />
-
+  
   <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacfds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacfds&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
 
-<br clear="both">
+<br>
 
 ---
 
