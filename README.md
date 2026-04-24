@@ -30,7 +30,7 @@
 ## 📊 Estatísticas
 
 <div>
-  <a href="https://github.com/seuusuario">
+  <a href="https://github.com/pedroacfds">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=dark"/>
   </a>
@@ -54,7 +54,7 @@
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+  <a href="[https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/pedro-assis-5325312a9/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
