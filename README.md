@@ -10,6 +10,7 @@ Olá, me chamo Pedro Assis! Graduando em Análise e Desenvolvimento de Sistemas,
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </p>
+
 ---
 
 ## 🔥 Skills
