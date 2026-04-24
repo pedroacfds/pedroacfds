@@ -19,12 +19,11 @@
 
 ## 🔥 Habilidades e Tecnologias
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 25px; align-items: center;">
   <img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="Pandas" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img alt="Excel" height="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png">
-  <img alt="Power BI" height="50" src="https://img.icons8.com/color/48/power-bi.png">
 </div>
 
 ---
