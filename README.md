@@ -2,6 +2,14 @@
 
 Olá, me chamo Pedro Assis! Graduando em Análise e Desenvolvimento de Sistemas, com grande interesse na área de tecnologia e dados. Tenho buscado constantemente aprimorar meus conhecimentos em programação, banco de dados e análise de informações, visando aplicar esses aprendizados em projetos reais. Atualmente, estou em busca de uma oportunidade que me permita desenvolver habilidades técnicas e contribuir com soluções inovadoras na área de dados e tecnologia.
 
+<p align="left">
+<a href="xpedroassisl@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-assis-5325312a9/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</p>
 ---
 
 ## 🔥 Skills
