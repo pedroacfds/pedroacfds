@@ -50,6 +50,7 @@
 
 ---
 
+<div>
 ## 📂 Projetos em destaque
 
 
@@ -58,6 +59,7 @@
 🔹 Consultas SQL para análise de banco de dados  
 
 *(em breve mais projetos...)*
+</div>
 
 ---
 
