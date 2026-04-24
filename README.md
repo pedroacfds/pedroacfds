@@ -1,4 +1,4 @@
-# Pedro Assis 
+# 👨‍💻 Pedro Assis 
 
 Olá, me chamo Pedro Assis! Graduando em Análise e Desenvolvimento de Sistemas, com grande interesse na área de tecnologia e dados. Tenho buscado constantemente aprimorar meus conhecimentos em programação, banco de dados e análise de informações, visando aplicar esses aprendizados em projetos reais. Atualmente, estou em busca de uma oportunidade que me permita desenvolver habilidades técnicas e contribuir com soluções inovadoras na área de dados e tecnologia.
 
