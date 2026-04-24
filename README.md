@@ -50,14 +50,16 @@
 
 ---
 
+<p>
 ## 📂 Projetos em destaque
 
-<p>
+
 🔹 Análise de Vendas com Power BI  
 🔹 Limpeza e tratamento de dados com Python  
 🔹 Consultas SQL para análise de banco de dados  
 
 *(em breve mais projetos...)*
+
 </p>
 
 ---
