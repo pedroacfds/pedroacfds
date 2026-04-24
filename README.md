@@ -30,12 +30,19 @@
 
 ## 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/pedroacfds">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+## 📊 Estatísticas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pedroacfds&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180em"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacfds&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+</p>
 
 ---
 
