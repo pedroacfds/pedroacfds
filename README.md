@@ -1,53 +1,64 @@
 # 👋 Olá, eu sou o Pedro!
 
-🎯 Em transição para a área de **Análise de Dados**  
-📊 Focado em transformar dados em insights úteis para tomada de decisão  
-🚀 Atualmente estudando e desenvolvendo projetos com dados  
+💻 Em transição para **Análise de Dados**  
+📊 Transformando dados em decisões  
+📍 Brasil  
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-- 📍 Brasil
-- 📚 Estudando análise de dados e ferramentas do mercado
-- 💡 Interesse em SQL, Python, Power BI e Excel
-- 📈 Buscando minha primeira oportunidade na área de dados
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- 📊 Power BI
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 🗄️ SQL (MySQL / SQL Server)
-- 📑 Excel (avançado)
-- 📂 Git e GitHub
+🎯 Focado em me tornar um Analista de Dados  
+📚 Estudando SQL, Python e Power BI  
+📈 Interesse em análise exploratória, dashboards e insights  
+💼 Buscando primeira oportunidade na área  
 
 ---
 
-## 📂 Projetos
+## 🔥 Skills & Tecnologias
 
-Aqui estão alguns projetos que estou desenvolvendo:
+<div style="display: inline_block"><br>
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Excel" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/732/732220.png">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+</div>
 
-- 🔹 Análise de vendas com Power BI  
-- 🔹 Limpeza e análise de dados com Python  
-- 🔹 Consultas e manipulação de dados com SQL  
+---
+
+## 📊 Estatísticas
+
+<div>
+  <a href="https://github.com/seuusuario">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Análise de Vendas com Power BI  
+🔹 Limpeza e tratamento de dados com Python  
+🔹 Consultas SQL para análise de banco de dados  
 
 *(em breve mais projetos...)*
 
 ---
 
-## 📈 Objetivo
+## 🌐 Contato
 
-Meu objetivo é atuar como **Analista de Dados**, ajudando empresas a tomarem decisões mais inteligentes através da análise de dados.
+<div> 
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+</div>
 
 ---
 
-## 📫 Contato
-
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seuusuario  
-
----
-
-⭐ Obrigado por visitar meu perfil!
+⭐ Sempre evoluindo na área de dados!
