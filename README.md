@@ -51,7 +51,7 @@
 ## 🌐 Contato
 
 <div> 
-  <a href="mailto:seuemail@email.com">
+  <a href="xpedroassisl@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/pedro-assis-5325312a9/" target="_blank">
