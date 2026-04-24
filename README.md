@@ -54,7 +54,7 @@
   <a href="mailto:seuemail@email.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/pedro-assis-5325312a9/)" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-assis-5325312a9/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
